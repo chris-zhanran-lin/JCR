@@ -12,7 +12,7 @@ modern distribution-free methods for predictive inference (specifically conforma
 
 
 The figure below illustrates a JCR
-for a simplified model where $X_1,X_2 \sim N(\theta,1)$ independently, but we only observe $X_1$, and want to cover the pair $(\theta,X_2)$.
+for a simplified model where $X_1,X_2 \sim \mathcal{N}(\theta,1)$ independently, but we only observe $X_1$, and want to cover the pair $(\theta,X_2)$.
 For contrast, we also plot a confidence interval for $\theta$, which appears here as a vertical band, because it does not provide
 any information about $X_2$.
 Similarly, we also plot a prediction region for $X_2$; which appears as a horizontal band.
