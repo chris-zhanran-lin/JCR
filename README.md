@@ -1,6 +1,9 @@
 # Joint Coverage Regions (JCRs)
 Code and figures for the paper
 ## Joint Coverage Regions: Simultaneous Confidence and Prediction Sets
+
+by E. Dobriban and Z. Lin, [https://arxiv.org/abs/2303.00203](https://arxiv.org/abs/2303.00203).
+
 Joint Coverage Regions (JCRs) are a novel statistical concept that unifies confidence intervals/sets and prediction regions 
 in standard frequentist statistics. Specifically, JCRs are designed to cover a *pair* formed by an unknown fixed parameter and an unobserved random datapoint. 
 The first corresponds to a confidence component, while the second corresponds to a prediction part.
