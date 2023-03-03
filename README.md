@@ -11,7 +11,7 @@ We aim to construct JCRs that have valid coverage; in finite samples or asymptot
 
 
 In particular, JCRs unify the classical notions of confidence intervals (such as standard Z and t-intervals), and
-modern distribution-free methods for predictive inference (specifically conformal prediction)
+modern distribution-free methods for predictive inference (specifically conformal prediction).
 
 
 The figure below illustrates a JCR
